@@ -1,12 +1,11 @@
-## Hi there 👋
+## About
 
-<!--
+Divisora project is an attemt to build a secure and open source portal for users/administrators who want to access different security zones. Instead of relying on each protocol being secure, this project aims to minimize the security impact of opening access without loosing control by only exposing a portal through HTTPS / noVNC.
 
-**Here are some ideas to get you started:**
+While other projects tend to make the same product, this version aims for administrative tasks. Security, tracing and limited access depending on the user are some of the end-goals.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contribution guidelines
+
+Be polite, constructive and respectful of others.
+
+At this point this project should be considered a Proof-of-Concept rather than a stable release. Please feel free to contribute with comments / review / code updates through Issues / Pull-requests.
